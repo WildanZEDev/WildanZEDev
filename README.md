@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Wildan_20260818_200736_0000.png" alt="Banner Wildan ZE">
+  <img src="ZE_20260818_220214_0000.gif" alt="Banner Wildan">
 </p>
 
 ## Hi Everyone!!!
